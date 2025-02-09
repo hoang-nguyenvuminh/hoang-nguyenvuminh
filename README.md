@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-🎓 Education: Bachelor’s degree in Information Technology from Ho Chi Minh City Open University (09/2018 - 09/2022).
-💼 Work Experience: Web Developer at CorsivaLab (05/2022 - 01/2025), specializing in WordPress and Laravel development.
-🛠 Key Skills:
+- 🎓 Education: Bachelor’s degree in Information Technology from Ho Chi Minh City Open University (09/2018 - 09/2022).
+- 💼 Work Experience: Web Developer at CorsivaLab (05/2022 - 01/2025), specializing in WordPress and Laravel development.
+- 🛠 Key Skills:
   - Front-end: HTML, CSS, jQuery
   - Back-end: PHP, Laravel (Laravel 11)
   - WordPress Development: Typerocket, custom theme & plugin development
-🔥 Passionate about building optimized web applications, experienced in customizing systems to meet business requirements. Always eager to learn new technologies and improve coding skills.
+- 🔥 Passionate about building optimized web applications, experienced in customizing systems to meet business requirements. Always eager to learn new technologies and improve coding skills.
 - 🔭 I’m currently a freelance developer, and I’m also looking for a full-time job opportunity
 - 🌱 I’m learning how to use WordPress page builders and improving my PHP skills
 - 👯 I’m looking to collaborate on WordPress web development or any other interesting projects
